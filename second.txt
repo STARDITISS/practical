@@ -1,1 +1,2 @@
+NEW LINE ADDED
 Hello this is my second file
